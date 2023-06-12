@@ -1,0 +1,38 @@
+body {
+  background-color: #192d22ea;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #e1d3cf;
+  text-align: center;
+
+}
+
+h2 {
+  color: #615c5ae4;
+  /* text-align: center; */
+
+}
+
+h3 {
+  color: #76678f;
+  /* text-align: center; */
+
+}
+
+p {
+  color: #e1d3cf;
+
+}
+
+img {
+  float: left;
+  margin-right: 100px;
+  margin-bottom: 30px;
+  max-width: 100%;
+  height: auto;
+}
+
+ul {
+  color: #e1d3cf;
